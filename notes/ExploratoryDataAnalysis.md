@@ -8,7 +8,7 @@
   - Test underlying assumptions.
   - Develop parsimonious models.
 - Philosophically, EDA isn't identical to statistical analysis rather its an approach to dissect the data set enough to postpone the initial assumptions and let the data set reveal more information by itself.
-- Popular graphical techniques used in EDA are: 
+- Popular graphical techniques used in EDA are:
   1. Plotting the raw data using *histograms*, *probability plots*, *block plots*, etc
   2. Plotting simple statiscal graphs like *mean plots*, *standard deviation plots*, *box plots*, etc and the effects on the raw data.
   3. Positioning such plots in such a way that our natural pattern-recognition perceptions can gain as much information easily & quickly.
@@ -20,7 +20,7 @@
   - Using a box plot to take a look at the outliers.
   - Checking the linearity and if the distributions are normal or not is considered a good practice.
 
-## Resources:
+## Resources
 
 - [What is Exploratory Data Analysis](https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15)
 - [EDA Workflow | Jupyter Notebook](https://nbviewer.jupyter.org/github/PBPatil/Exploratory_Data_Analysis-Wine_Quality_Dataset/blob/master/winequality_white.ipynb)
