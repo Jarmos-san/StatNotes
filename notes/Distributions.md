@@ -8,7 +8,7 @@
 - Some popular types of distributions:-
   - **Binomial Distribution**: The Binomial Distribution measures the probabilities of the number of successes over a given number of trials with a specified probability of each trial.
 
-    ![Binomial Distibution](./images/BinomialDistribution.JPG)
+    ![Binomial Distibution](https://github.com/Jarmos-san/StatNotes/blob/master/images/BinomialDistribution.JPG)
 
 ## Resources
 
