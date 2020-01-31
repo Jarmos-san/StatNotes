@@ -1,5 +1,15 @@
 # Distributions
 
+- Its important to ask four basic questions before proceeding with fitting the data
+  - Whether data is discrete and continuous
+  - Symmetry of the data to check for outlier and their likeliness.
+  - Check the upper and/or lower limits of the data.
+  - How likely is it to observer extreme values in the distribution.
+- Some popular types of distributions:-
+  - **Binomial Distribution**: The Binomial Distribution measures the probabilities of the number of successes over a given number of trials with a specified probability of each trial.
+
+    ![Binomial Distibution](./images/BinomialDistribution.JPG)
+
 ## Resources
 
 - [Statistical Distributions | Towards Data Science](https://towardsdatascience.com/statistical-distributions-24b5b4ba43cc)
