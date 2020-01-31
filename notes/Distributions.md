@@ -10,6 +10,20 @@
 
     ![Binomial Distibution](https://github.com/Jarmos-san/StatNotes/blob/master/images/BinomialDistribution.JPG)
 
+  - **Poisson Distribution**: The Poisson Distribution measures the likelihood of the number of occurances within a given time interval where the key parameter required is the average number of events in the given interval. The resulting image looks like that of a Binomial Distribution but with the skewness being positive but decreasing with 1.
+
+    ![Poisson Distribution]()
+  
+  - **Negative Binomial Distribution**: {_Placeholder_}
+  - **Geomtric Distribution**: {_Placeholder_}
+  - **Hypergeometric Distribution**: {_Placeholder_}
+  - **Discrete Uniform Distribution**: Simplest distribution when all of the outcomes have equal probability of occuring.
+  
+    ![DiscreteUniformDistribution]()
+  
+<!-- Requires more information on this topic -->
+{_Placeholder_}
+
 ## Resources
 
 - [Statistical Distributions | Towards Data Science](https://towardsdatascience.com/statistical-distributions-24b5b4ba43cc)
