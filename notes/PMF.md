@@ -1,4 +1,4 @@
-#
+# Probability Mass Functions
 
 ## Resources
 
